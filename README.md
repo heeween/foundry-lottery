@@ -15,7 +15,9 @@ Foundry consists of:
   - 1. The ticket fees are going to go to the winner during the draw
 - 2 After X period of time, the lottery will automatically draw a winner
   - 1. And this will be done programatically
-- 3
+  - 2. Using Chainlink Upkeep time-base contract to trigger to pick a winner
+- 3 Using Chainlink VRF &
+  - 1 Chainlink VRF get a random number and convert it to no more than the length of player array
 
 https://book.getfoundry.sh/
 
